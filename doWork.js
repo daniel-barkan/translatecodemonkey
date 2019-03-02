@@ -34,9 +34,7 @@ var items = [
  ["bridge", "גשר"],
  ["in", "בתוך"],
 
-
-
-["distanceTo","המרחק עד ל-"],
+["distanceTo","המרחק_אל"],
 
 ["say","אמור"],
 
@@ -58,9 +56,9 @@ var items = [
 
 ["islands","איים"],
 
- ["tinySwamp","ביצה קטנה"],
+ ["tinySwamp","ביצה"],
 
-["tinySwamps","ביצות קטנות"],
+["tinySwamps","ביצים"],
 
 ["beaver","בונה"],
 
@@ -92,7 +90,7 @@ var items = [
 
 ["allTurtlesStep","כל_הצבים_לצעוד"],
 
-["until","עד_ש-"],
+["until","עד_ש"],
 
 ["near","קרוב"],
 
@@ -120,13 +118,13 @@ var items = [
 
 ["frozen","קפואה"],
 
-["Brrr…","בררר..."],
+["Brrr…","בררר"],
 
 ["green","ירוק"],
 
 ["yellow","צהוב"],
 
-["if else","אם ואם לא"],
+["else","אחרת"],
 
 ["breakBanana","שבור_בננה"],
 
@@ -146,7 +144,7 @@ var items = [
 
 ["or","או"],
 
-["waitfor","חכה_עד_ש-"],
+["waitfor","חכה_עד_ש"],
 
 ["penguin","פניגווין"],
 
@@ -166,8 +164,6 @@ var items = [
 
 ["healthZone","אזור_בריאות"],
 
-["less than","פחות מ-"],
-
 ["gotoNearestHealth","לך_לאזור_בריאות_הקרוב"],
 
 ["return","חזור"],
@@ -180,7 +176,7 @@ var items = [
 
 ["injured","פצוע"],
 
-["safeFrom","בטוח_מ-"],
+["safeFrom","בטוח_מ"],
 
 ["negative","שלילי"],
 
@@ -206,9 +202,9 @@ var items = [
 
 ["bat","עטלף"],
 
-["setX","Xקבע_מיקום_על_ציר_ "],
+["setX","Xקבע_מיקום_על_ציר"],
 
-["setY","Yקבע_מיקום_על_ציר_ "],
+["setY","Yקבע_מיקום_על_ציר"],
 
 ["onClick","בלחיצת_עכבר"],
 
@@ -230,7 +226,7 @@ var items = [
 
 ["turnOneDegree","פנה_מעלה_אחת"],
 
-["facing","פונה_אל-"],
+["facing","פונה_אל"],
 
 ["carousels","קרוסלות"],
 
